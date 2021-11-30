@@ -9,6 +9,6 @@ pip install opencv-python<br/>
 
 # Edit
 
-Install cvzone using this Google Drive link. Paste in site-packages folder<br>
+Install mediapipe using this Google Drive link. Paste in site-packages folder<br>
 <a href="https://drive.google.com/drive/folders/17PSFfaJohv99cizd0B4tKQ4eepSy7bDN?usp=sharing"> Click Here </a><br>
 cvzone library is in the repository
