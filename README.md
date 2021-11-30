@@ -3,8 +3,8 @@
 Run in terminal to install packages
 
 pip install pynput<br/>
-pip install mediapipe<br/>
-pip install cvzone<br/>
+<strike>pip install mediapipe</strike><br/>
+<strike>pip install cvzone</strike><br/>
 pip install opencv-python<br/>
 
 # Edit
